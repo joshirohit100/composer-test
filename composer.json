@@ -1,0 +1,5 @@
+{
+  "name": "rohit/composer-test",
+  "description": "Composer Testing",
+  "type": "drupal-module",
+}
